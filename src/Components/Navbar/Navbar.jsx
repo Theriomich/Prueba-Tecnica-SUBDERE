@@ -2,8 +2,7 @@ import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import Form from "react-bootstrap/Form";
 import Navbar from "react-bootstrap/Navbar";
-import "./Navbar.css";
-
+//Cree un Navbar con Bootstrap y le di colores de radial gradient
 function NavBar() {
   return (
     <Navbar
