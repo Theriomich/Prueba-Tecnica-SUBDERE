@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       {/* En el Home paso el componente CustomLayout, que ahora es el padre de Home y que incluye Navbar y Footer */}
       <CustomLayout>
-        <h1>Soy Home</h1>
+        <Cards />
       </CustomLayout>
     </div>
   );

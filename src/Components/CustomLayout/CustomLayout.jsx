@@ -6,7 +6,7 @@ function CustomLayout(prop) {
   return (
     <>
       {/*Para poder mostrar lo que esta dentro de Home
-       al envolverlo en el Componente CostomLayout 
+       al envolverlo en el Componente CustomLayout 
        le pasamos la propiedad Children y ahora Home 
        es hijo de CustomLayout. Este componente se 
        puede reutilizar si tuviesemos más paginas,
